@@ -26,3 +26,5 @@ imbalanced-learn
 xlrd
 plotly
 scikit-surprise
+category_encoders
+pandas-profiling

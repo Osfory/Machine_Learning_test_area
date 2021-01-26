@@ -1,3 +1,7 @@
+### Machine Learning Test Area
+
+# Testing ground for classic machine learning algorithms 
+
 Getting started:
 
 - Install venv for python project isolation: `python -m venv .`

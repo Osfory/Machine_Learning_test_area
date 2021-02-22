@@ -1,9 +1,9 @@
-numpy==1.19.2
-pandas==1.1.3
-pyfunctional==1.4.2
+numpy
+pandas
+pyfunctional
 pytz==2020.1
 six==1.15.0
-tabulate==0.8.7
+tabulate
 jupyter
 notebook
 ipykernel
@@ -28,3 +28,7 @@ plotly
 scikit-surprise
 category_encoders
 pandas-profiling
+catboost
+ipywidgets
+fbprophet
+tsfresh

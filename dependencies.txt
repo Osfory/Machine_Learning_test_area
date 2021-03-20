@@ -10,6 +10,7 @@ ipykernel
 ipython
 rpy2
 matplotlib
+matplotlib-venn
 seaborn
 plotnine
 scipy

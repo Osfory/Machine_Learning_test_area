@@ -11,6 +11,8 @@ ipython
 rpy2
 matplotlib
 matplotlib-venn
+pywaffle
+squarify
 seaborn
 plotnine
 scipy

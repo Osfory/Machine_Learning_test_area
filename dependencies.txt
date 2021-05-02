@@ -16,6 +16,8 @@ squarify
 seaborn
 plotnine
 scipy
+manim
+bar_chart_race
 tqdm
 scikit-learn
 statsmodels
